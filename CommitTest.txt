@@ -3,3 +3,5 @@ Some sample text created in cloned repository.
 More test text added separately.
 
 Will save as another commit.
+
+Third test to save changes to two files in one commit.
